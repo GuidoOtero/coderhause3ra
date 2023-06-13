@@ -1,0 +1,19 @@
+div{
+    header{
+        nav{
+            ul{
+            display: flex;
+            justify-content: space-around;
+            list-style: none
+            padding-top 60px;
+                li{list-style: none;
+                    a{text-decoration: none;
+                        color: black;
+                    
+                    }
+                }
+            }
+            
+        }
+    }
+}
